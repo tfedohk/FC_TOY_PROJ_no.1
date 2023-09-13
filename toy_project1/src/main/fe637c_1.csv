@@ -1,0 +1,2 @@
+tripId,tripName,startDate,endDate,itineraryId,departurePlace,destination,departureTime,arrivalTime,checkIn,checkOut
+1,여행,2023-07-15,2023-07-20,1,CityA,CityB,2023-07-15T08:00:00,2023-07-15T10:00:00,2023-07-15T12:00:00,2023-07-30T10:00:00

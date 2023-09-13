@@ -1,0 +1,26 @@
+{
+  "tripId": 3,
+  "tripName": "My Parent",
+  "startDate": "2023-09-28",
+  "endDate": "2023-09-30",
+  "Itineraries": [
+    {
+      "itineraryId": 1,
+      "departurePlace": "Korea",
+      "destination": "USA",
+      "departureTime": "2023-07-15T08:00:00",
+      "arrivalTime": "2023-07-15T10:00:00",
+      "checkIn": "2023-07-15T12:00:00",
+      "checkOut": "2023-07-30T10:00:00"
+    },
+    {
+      "itineraryId": 2,
+      "departurePlace": "USA",
+      "destination": "Korea",
+      "departureTime": "2023-07-15T08:00:00",
+      "arrivalTime": "2023-07-15T10:00:00",
+      "checkIn": "2023-07-15T12:00:00",
+      "checkOut": "2023-07-30T10:00:00"
+    }
+  ]
+}
